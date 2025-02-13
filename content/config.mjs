@@ -11,6 +11,7 @@ const config = {
       },
     search: {
         provider: "kbar",
+        kbarConfig: {},
       },
     showToc: true,
   };
