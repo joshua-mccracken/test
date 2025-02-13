@@ -1,1 +1,1 @@
-# Welcome to my Flowershow site!
+# The Word of Adonai

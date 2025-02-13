@@ -9,6 +9,10 @@ const config = {
         text: "The Word of Adonai",
         logo: "", // optional
       },
+    search: {
+        provider: "kbar",
+      },
+    showToc: true,
   };
   
   export default config;
