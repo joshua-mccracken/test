@@ -3,7 +3,6 @@
 * [Elohim אלוהים](README.md)
 * [Elyon עליון](<hebrew words and phrases/Elyon עליון.md>)
 * [Shadai שדי](<hebrew words and phrases/Shadai שדי.md>)
-* [ach אך](<hebrew words and phrases/ach אך.md>)
 * [adam אדם](<hebrew words and phrases/adam אדם.md>)
 * [alah אלה](<hebrew words and phrases/alah אלה.md>)
 * [alam ע-ל-ם](<hebrew words and phrases/alam ע-ל-ם.md>)
@@ -208,3 +207,7 @@
 * [zanah ז-נ-ה](<hebrew words and phrases/zanah ז-נ-ה.md>)
 * [zarak זרק](<hebrew words and phrases/zarak זרק.md>)
 * [zavav זוב](<hebrew words and phrases/zavav זוב.md>)
+
+## Group 1
+
+* [ach אך](group-1/ach.md)
