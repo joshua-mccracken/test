@@ -208,6 +208,6 @@
 * [zarak זרק](<hebrew words and phrases/zarak זרק.md>)
 * [zavav זוב](<hebrew words and phrases/zavav זוב.md>)
 
-## 🈁 alef א
+## alef א
 
 * [ach אך](alef/ach.md)
